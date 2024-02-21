@@ -91,9 +91,6 @@
    <a href="https://github.com/hamadpervaiz">
     <img align="left" alt="Hamad Pervaiz | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <a href="https://x.com/hamadpervaiz/">
-    <img align="left" alt="Hamad Pervaiz | Twitter" width="26px" src="https://www.svgrepo.com/show/474386/twitter-icon" />
-  </a>
   <br>
   
 <p align="right" > Created with 🧡 by <a href="https://github.com/hamad">Hamad Pervaiz</a></p>
